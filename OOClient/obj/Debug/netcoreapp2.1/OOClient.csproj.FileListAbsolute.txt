@@ -1,0 +1,10 @@
+C:\Users\Bruger\Documents\OOGramogOunce\OOGramogOunce\OOClient\bin\Debug\netcoreapp2.1\OOClient.deps.json
+C:\Users\Bruger\Documents\OOGramogOunce\OOGramogOunce\OOClient\bin\Debug\netcoreapp2.1\OOClient.runtimeconfig.json
+C:\Users\Bruger\Documents\OOGramogOunce\OOGramogOunce\OOClient\bin\Debug\netcoreapp2.1\OOClient.runtimeconfig.dev.json
+C:\Users\Bruger\Documents\OOGramogOunce\OOGramogOunce\OOClient\bin\Debug\netcoreapp2.1\OOClient.dll
+C:\Users\Bruger\Documents\OOGramogOunce\OOGramogOunce\OOClient\bin\Debug\netcoreapp2.1\OOClient.pdb
+C:\Users\Bruger\Documents\OOGramogOunce\OOGramogOunce\OOClient\obj\Debug\netcoreapp2.1\OOClient.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Documents\OOGramogOunce\OOGramogOunce\OOClient\obj\Debug\netcoreapp2.1\OOClient.AssemblyInfoInputs.cache
+C:\Users\Bruger\Documents\OOGramogOunce\OOGramogOunce\OOClient\obj\Debug\netcoreapp2.1\OOClient.AssemblyInfo.cs
+C:\Users\Bruger\Documents\OOGramogOunce\OOGramogOunce\OOClient\obj\Debug\netcoreapp2.1\OOClient.dll
+C:\Users\Bruger\Documents\OOGramogOunce\OOGramogOunce\OOClient\obj\Debug\netcoreapp2.1\OOClient.pdb

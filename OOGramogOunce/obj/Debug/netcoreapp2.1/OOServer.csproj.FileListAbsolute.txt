@@ -1,0 +1,13 @@
+C:\Users\Bruger\Documents\OOGramogOunce\OOGramogOunce\OOGramogOunce\bin\Debug\netcoreapp2.1\OOServer.deps.json
+C:\Users\Bruger\Documents\OOGramogOunce\OOGramogOunce\OOGramogOunce\bin\Debug\netcoreapp2.1\OOServer.runtimeconfig.json
+C:\Users\Bruger\Documents\OOGramogOunce\OOGramogOunce\OOGramogOunce\bin\Debug\netcoreapp2.1\OOServer.runtimeconfig.dev.json
+C:\Users\Bruger\Documents\OOGramogOunce\OOGramogOunce\OOGramogOunce\bin\Debug\netcoreapp2.1\OOServer.dll
+C:\Users\Bruger\Documents\OOGramogOunce\OOGramogOunce\OOGramogOunce\bin\Debug\netcoreapp2.1\OOServer.pdb
+C:\Users\Bruger\Documents\OOGramogOunce\OOGramogOunce\OOGramogOunce\bin\Debug\netcoreapp2.1\OOClassLibrary.dll
+C:\Users\Bruger\Documents\OOGramogOunce\OOGramogOunce\OOGramogOunce\bin\Debug\netcoreapp2.1\OOClassLibrary.pdb
+C:\Users\Bruger\Documents\OOGramogOunce\OOGramogOunce\OOGramogOunce\obj\Debug\netcoreapp2.1\OOServer.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Documents\OOGramogOunce\OOGramogOunce\OOGramogOunce\obj\Debug\netcoreapp2.1\OOServer.AssemblyInfoInputs.cache
+C:\Users\Bruger\Documents\OOGramogOunce\OOGramogOunce\OOGramogOunce\obj\Debug\netcoreapp2.1\OOServer.AssemblyInfo.cs
+C:\Users\Bruger\Documents\OOGramogOunce\OOGramogOunce\OOGramogOunce\obj\Debug\netcoreapp2.1\OOServer.csproj.CopyComplete
+C:\Users\Bruger\Documents\OOGramogOunce\OOGramogOunce\OOGramogOunce\obj\Debug\netcoreapp2.1\OOServer.dll
+C:\Users\Bruger\Documents\OOGramogOunce\OOGramogOunce\OOGramogOunce\obj\Debug\netcoreapp2.1\OOServer.pdb
