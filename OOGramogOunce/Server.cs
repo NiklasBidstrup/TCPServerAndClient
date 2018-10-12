@@ -39,8 +39,7 @@ namespace OOServer
                 string clientOutput = streamReader1.ReadLine();
                 string[] clientOutputString = clientOutput.Split(" ");
                 string command = clientOutputString[0];
-                // double number = Convert.ToDouble(clientOutputString[1]);
-                double number = 1;
+                double number = Convert.ToDouble(clientOutputString[1]);
                 double result = 0;
                 Methods lib = new OOClassLibrary.Methods();
 

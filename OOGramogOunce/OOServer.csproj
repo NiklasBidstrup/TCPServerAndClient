@@ -7,7 +7,7 @@
 
   <ItemGroup>
     <Reference Include="OOClassLibrary">
-      <HintPath>..\..\..\..\Source\Repos\OO Server\OOClassLibrary\bin\Debug\netcoreapp2.1\OOClassLibrary.dll</HintPath>
+      <HintPath>..\..\OOClassLibary\OOClassLibrary\obj\Debug\netcoreapp2.1\OOClassLibrary.dll</HintPath>
     </Reference>
   </ItemGroup>
 

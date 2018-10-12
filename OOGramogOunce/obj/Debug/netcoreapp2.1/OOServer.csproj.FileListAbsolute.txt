@@ -11,3 +11,4 @@ C:\Users\Bruger\Documents\OOGramogOunce\OOGramogOunce\OOGramogOunce\obj\Debug\ne
 C:\Users\Bruger\Documents\OOGramogOunce\OOGramogOunce\OOGramogOunce\obj\Debug\netcoreapp2.1\OOServer.csproj.CopyComplete
 C:\Users\Bruger\Documents\OOGramogOunce\OOGramogOunce\OOGramogOunce\obj\Debug\netcoreapp2.1\OOServer.dll
 C:\Users\Bruger\Documents\OOGramogOunce\OOGramogOunce\OOGramogOunce\obj\Debug\netcoreapp2.1\OOServer.pdb
+C:\Users\Bruger\Documents\OOGramogOunce\OOGramogOunce\OOGramogOunce\obj\Debug\netcoreapp2.1\OOServer.csprojAssemblyReference.cache
